@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://luxtumbe.github.io/sitemap.html.gz
+Sitemap: https://luxtumbe.github.io/app/sitemap.html.gz
+Sitemap: https://luxtumbe.github.io/assets/sitemap.html.gz
+Sitemap: https://luxtumbe.github.io/css/sitemap.html.gz
+Sitemap: https://luxtumbe.github.io/includes/sitemap.html.gz
+Sitemap: https://luxtumbe.github.io/item/sitemap.html.gz
+Sitemap: https://luxtumbe.github.io/src/sitemap.html.gz
